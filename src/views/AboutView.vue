@@ -2,7 +2,7 @@
   <section>
     <h1>About Me</h1>
     <p>
-      Hi, I am learning how to build Vue single-page applications. This page is part of a
+      Hello,My name is Makara. I am learning how to build Vue single-page applications. This page is part of a
       router practice project that uses normal routes, active links, dynamic routes, and a
       404 page.
     </p>
